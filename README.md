@@ -6,6 +6,7 @@ collects all the agents(personal and location informations) from the fbfs.com an
 ## How to install
 
 `sudo apt install python2.7 python-pip`
+
 `sudo pip install scrapy`
 
 ## How to Run
