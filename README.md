@@ -1,11 +1,12 @@
 # Fbfs-Scraper
 
-collect all the agents(personal and location informations) from the fbfs.com.
+collects all the agents(personal and location informations) from the fbfs.com and exports the result as a csv file.
 'https://www.fbfs.com/landing-page/agent-listing'
 
 ## How to install
 
-`pip install scrapy`
+`sudo apt install python2.7 python-pip`
+`sudo pip install scrapy`
 
 ## How to Run
 
