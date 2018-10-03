@@ -1,6 +1,6 @@
 # Fbfs-Scraper
 
-collects all the agents(personal and location informations) from the fbfs.com and exports the result as a csv file.
+collects all the agents(personal and location informations) from fbfs.com and exports the result as a csv file.
 'https://www.fbfs.com/landing-page/agent-listing'
 
 ## How to install
